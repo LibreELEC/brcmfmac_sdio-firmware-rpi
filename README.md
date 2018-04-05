@@ -2,9 +2,10 @@
 
 Useful alternative source for RPi/Broadcom firmwares:
 
-https://github.com/RPi-Distro/firmware-nonfree/tree/master/brcm
+WiFi: https://github.com/RPi-Distro/firmware-nonfree/tree/master/brcm
+Bluetooth: https://github.com/RPi-Distro/bluez-firmware/tree/master/broadcom
 
-# Firmware Version
+# WiFi Firmware Version
 
 - Broadcom BCM43430 firmware v7.45.98.38
 - Broadcom BCM43455 firmware v7.45.154
