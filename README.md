@@ -1,10 +1,10 @@
 # brcmfmac_sdio-firmware-rpi
 
-Useful alternative source for RPi/Broadcom firmwares:
+Alternative source for RPi/Broadcom/Cypress/Synaptics firmwares:
 
-WiFi: https://github.com/RPi-Distro/firmware-nonfree/tree/bullseye/debian/config/brcm80211
-Bluetooth: https://github.com/RPi-Distro/bluez-firmware/tree/master/broadcom
+WiFi: https://github.com/RPi-Distro/firmware-nonfree/tree/bookworm/debian/config/brcm80211  
+Bluetooth: https://github.com/RPi-Distro/bluez-firmware/tree/bookworm/debian/firmware
 
 # License
 
-Licence: Redistributable. See LICENCE.Synaptics for details.
+License: Redistributable. See LICENSE for details.
